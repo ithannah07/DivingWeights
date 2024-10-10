@@ -1,1 +1,2 @@
 # DivingWeights
+This program, "Diving Weights," is designed to help scuba divers find the optimal combination of weights to counterbalance buoyancy. The problem involves finding two or three weights from a dive shop's inventory that come closest to a specified target weight. The input consists of a desired weight, the number of available weights, and an unsorted list of weight values. The program identifies the combination that minimizes the difference between their sum and the target weight. It prioritizes balanced combinations when multiple options are equally close.
